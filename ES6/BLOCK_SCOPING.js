@@ -15,7 +15,7 @@ let mark = 80;
 let pass;
 
 if(mark > 50 ){
-     pass = true;
+     pass = true; // It shows an true
 }else{
      pass = false;
 }
